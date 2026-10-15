@@ -1,221 +1,411 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sarvesh Shashidhar",
+    "label": "M.S. by Research Scholar in Machine Intelligence & Data Science",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "",
+    "url": "https://cleanshave-2605.github.io",
+    "summary": "M.S. by Research scholar at the Centre for Machine Intelligence and Data Science (C-MInDS), Indian Institute of Technology Bombay. Researching recommender systems, popularity bias dynamics, reinforcement learning from human feedback (RLHF), and direct preference optimization (DPO).",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Mumbai",
+      "countryCode": "IN",
+      "region": "Maharashtra"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "cleanshave-2605",
+        "url": "https://github.com/cleanshave-2605"
+      }
+    ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
-    },
-    {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "Indian Institute of Technology Bombay",
+      "location": "Mumbai, India",
+      "url": "https://www.minds.iitb.ac.in/",
+      "area": "Centre for Machine Intelligence and Data Science (C-MInDS)",
+      "studyType": "M.S. by Research (Roll No: 24M2152)",
+      "startDate": "2024",
+      "endDate": "2027",
+      "score": "CPI: 8.83 (Core Credits: 40 | Total Credits: 70)",
+      "courses": [
+        "Foundations of Machine Learning",
+        "Theoretical Machine Learning",
+        "Optimisation in Machine Learning",
+        "Online Learning and Optimisation",
+        "Speech and Natural Language Processing and the Web",
+        "Foundations of Intelligent and Learning Agents",
+        "Algorithms and Complexity",
+        "Human-Centered AI: From Learning Models to Responsible Systems"
+      ]
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
-      "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "RV College of Engineering (VTU)",
+      "location": "Bengaluru, India",
+      "url": "https://www.rvce.edu.in/",
+      "area": "Electronics & Communication Engineering",
+      "studyType": "Bachelor of Engineering (B.E.)",
+      "startDate": "2017",
+      "endDate": "2021",
+      "score": "CPI: 8.66"
     },
     {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
+      "institution": "Jain International Residential School",
+      "location": "Bengaluru, India",
+      "area": "Senior Secondary (CBSE)",
+      "studyType": "Intermediate (Class XII)",
+      "startDate": "2015",
+      "endDate": "2017",
+      "score": "93.00%"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
+      "institution": "Jain International Residential School",
+      "location": "Bengaluru, India",
+      "area": "Secondary (CBSE)",
+      "studyType": "Matriculation (Class X)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "CGPA: 10.0"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Stay or Stray-A Dynamical Systems Viewpoint of Popularity Bias",
+      "publisher": "arXiv preprint arXiv:2608.10474 (Under review at AAAI 2027)",
+      "releaseDate": "2026-08-01",
+      "url": "https://arxiv.org/abs/2608.10474",
+      "summary": "Authors: Sarvesh Shashidhar, Lankireddy Prabhat, Arpit Agarwal, D. Manjunath, Karan Bhukar, and Tanmay Khandelwal."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Inducing Robustness in a 2 Dimensional Direct Preference Optimization Paradigm",
+      "publisher": "arXiv preprint arXiv:2505.01706",
+      "releaseDate": "2025-05-01",
+      "url": "https://arxiv.org/abs/2505.01706",
+      "summary": "Authors: Sarvesh Shashidhar, Ritik, Nachiketa Patil, Suraj Racha, and Ganesh Ramakrishnan."
     }
   ],
-  "skills": [
+  "work": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "name": "Indian Institute of Technology Bombay (in collaboration with Amazon Music)",
+      "position": "M.S.(R) Thesis Researcher — Modelling Popularity Bias in Recommender Systems",
+      "startDate": "2025-02",
+      "endDate": "Present",
+      "summary": "Advised by Prof. Arpit Agarwal. Currently under review at AAAI 27 (arXiv:2608.10474).",
+      "highlights": [
+        "Formulated a theoretical framework using differential equations modelling popularity bias in recommender systems.",
+        "Derived and proved concrete theorems using stochastic approximation to predict and quantify user drop-off.",
+        "Designed a mitigation solution using equalized odds to prevent popularity bias without loss in system accuracy.",
+        "Evaluated the framework using 410 million real-world interactions, validating theoretical predictions and the mitigation solution."
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "name": "Motilal Oswal Financial Services Ltd.",
+      "position": "AI Research Intern",
+      "startDate": "2026-05",
+      "endDate": "2026-08",
+      "summary": "Technologies: AWS SageMaker, AWS S3, DataBricks, NVIDIA CUDA",
+      "highlights": [
+        "Identified recommendation system biases causing 5% of 20,000 catalogue items to absorb 84.5% of interactions.",
+        "Developed two Inverse Propensity Scoring (IPS) models to ensure fairness and integrated them using a 35% signal blend across 7,016 users.",
+        "Achieved a 60% reduction in top 10% popularity concentration, effectively cutting the NDCG@6 cost by half.",
+        "Developed a dynamic visualisation dashboard using HTML, CSS, and JavaScript to track model performance."
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
     },
     {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "athenahealth Technology Pvt. Ltd.",
+      "position": "Associate Member of Technical Staff",
+      "startDate": "2021-07",
+      "endDate": "2023-03",
+      "summary": "Technologies: Perforce, JIRA, BitBucket, Kanban workflow",
+      "highlights": [
+        "Engineered clean Perl rules code through regression testing, delivering reliable clinical releases for Rules 1.0 engine.",
+        "Coordinated cross-functional team updates by resolving JIRA requests, ensuring sprint timelines were followed.",
+        "Maintained task work orders via internal Wiki pages, enabling strict compliance tracking for project leads."
+      ]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "name": "Inducing Robustness in 2D-DPO",
+      "summary": "Course: CS 769 | Guide: Prof. Ganesh Ramakrishnan",
+      "startDate": "2025-03",
+      "endDate": "2025-05",
+      "url": "https://arxiv.org/abs/2505.01706",
+      "highlights": [
+        "Diagnosed a lack of segment-level noise robustness in 2D-DPO, causing a win-rate drop from 43% to 37%.",
+        "Formulated Robust 2D-DPO and trained a Pythia 6.9B model on 6,400 HelpSteer-2D prompts to test robustness.",
+        "Attained a win-rate rise from 37% to 45% in the presence of noise, indicating robustness towards noisy labels.",
+        "Accelerated model training and inference by parallelising over 4 NVIDIA H100 GPUs."
+      ]
+    },
+    {
+      "name": "RLHF under User Heterogeneity",
+      "summary": "Course: CS 6103 | Guide: Prof. Arpit Agarwal",
+      "startDate": "2025-02",
+      "endDate": "2025-05",
+      "highlights": [
+        "Uncovered a flaw in standard RLHF due to the assumption of perfectly homogeneous preferences across all users.",
+        "Engineered personalised preference models across 40 workers and 2 distinct clusters using vector embeddings.",
+        "Achieved 53% and 52.7% win-rates, outperforming the baseline 52% win-rate across both user clusters."
+      ]
+    },
+    {
+      "name": "OCR-based MCQ Solver",
+      "summary": "Course: GNR 638 | Guide: Prof. Biplab Bannerjee",
+      "startDate": "2026-04",
+      "endDate": "2026-05",
+      "highlights": [
+        "Procured and scraped high-quality MCQ questions on Deep Learning topics to train an OCR solver.",
+        "Trained an 8-billion-parameter Qwen3-VL model to perform OCR extraction and solve MCQ questions.",
+        "Attained 90% accuracy using few-shot training when graded against a pre-defined evaluation dataset."
+      ]
+    },
+    {
+      "name": "Improved ResNet Implementation (iResNet-50)",
+      "summary": "Course: GNR 638 | Guide: Prof. Biplab Bannerjee",
+      "startDate": "2026-03",
+      "endDate": "2026-04",
+      "highlights": [
+        "Addressed information flow obstruction, lossy projection, and sub-optimal normalisation in deep ResNet-50.",
+        "Implemented the iResNet-50 model from scratch and trained for 100 epochs to overcome ResNet-50 bottlenecks.",
+        "Achieved 85.31% Top-1 accuracy using a 25.56M parameter iResNet-50 on CIFAR-10 and CIFAR-100."
+      ]
+    },
+    {
+      "name": "Fine-tuning & Evaluating CNN Backbones",
+      "summary": "Course: GNR 638 | Guide: Prof. Biplab Bannerjee",
+      "startDate": "2026-02",
+      "endDate": "2026-03",
+      "highlights": [
+        "Benchmarked three pre-trained CNN architectures across the Aerial Image Dataset (AID) with 30 classes.",
+        "Executed 5 evaluation paradigms highlighting few-shot performance and noise robustness across the models.",
+        "Observed 95% accuracy and a 24% relative drop due to noise for ConvNeXt-Tiny (27.8M parameters)."
+      ]
+    },
+    {
+      "name": "Microchess Playing Agent",
+      "summary": "Course: CS 747 | Guide: Prof. Shivaram Kalyankrishnan",
+      "startDate": "2025-11",
+      "endDate": "2025-12",
+      "highlights": [
+        "Devised a Microchess agent using reinforcement learning to compete against random and rational opponents.",
+        "Engineered Negamax algorithm with Alpha-Beta pruning and Quiescence search for modelling gameplay.",
+        "Achieved 94% and 84% win-rates against random and rational opponents respectively across 100 games."
+      ]
+    },
+    {
+      "name": "Blackjack Bot",
+      "summary": "Course: CS 747 | Guide: Prof. Shivaram Kalyankrishnan",
+      "startDate": "2025-10",
+      "endDate": "2025-11",
+      "highlights": [
+        "Modelled a 26-card Blackjack variation as a Markov Decision Process (MDP) with three specific actions.",
+        "Implemented Linear Programming and Howard's Policy Iteration to solve linear constraints across scenarios.",
+        "Evaluated optimal value functions against agent actions and passed 100% of defined test cases."
+      ]
+    },
+    {
+      "name": "Emotion Classification for Hindi",
+      "summary": "Course: CS 626 | Guide: Prof. Pushpak Bhattacharya",
+      "startDate": "2024-10",
+      "endDate": "2024-12",
+      "highlights": [
+        "Classified 20,000 Hindi sentences into five distinct emotion classes using deep learning models.",
+        "Verified 162 scenarios spanning 9 deep learning models across 6 dataset variations and 3 word-embedding techniques.",
+        "Attained 84.3% accuracy using TextBlob embeddings and mBERT with human-annotated labels."
+      ]
+    },
+    {
+      "name": "Machine Learning over Encrypted Data",
+      "summary": "Self Project",
+      "startDate": "2020",
+      "endDate": "2021",
+      "highlights": [
+        "Identified 250 million medical data breaches and the need for encryption when handling sensitive medical records.",
+        "Developed a Python framework using Homomorphic Encryption, enabling operations directly on encrypted data.",
+        "Performed linear and logistic regression accurately on encrypted data without decryption."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "C-MInDS, IIT Bombay",
+      "position": "Department General Secretary",
+      "startDate": "2025-06",
+      "endDate": "2026-04",
+      "summary": "Elected student representative for the Centre for Machine Intelligence and Data Science.",
+      "highlights": [
+        "Organised India AI Impact Summit 2026 pre-event and TechConnect 2025, fostering industry collaborations.",
+        "Created a comprehensive placement pitch deck and actively drove student-industry interactions.",
+        "Launched a student grievance redressal portal and helped modify course buckets based on student feedback.",
+        "Hosted the annual orientation and convocation ceremonies for incoming and graduating students."
+      ]
+    },
+    {
+      "organization": "Post Graduate Academic Council (PGAC), IIT Bombay",
+      "position": "Academic Council Coordinator",
+      "startDate": "2025-01",
+      "endDate": "2025-06",
+      "summary": "Events vertical coordinator for postgraduate academic initiatives.",
+      "highlights": [
+        "Moderated the Teachers for Tomorrow 2.0 panel to give students insight into the journey of young professors.",
+        "Assisted in organising pre-placement events and industry talks as part of the events vertical."
+      ]
+    },
+    {
+      "organization": "IIT Bombay — Kotak Education Foundation (IITB-KEF)",
+      "position": "Head Teaching Assistant — AI-ML Course",
+      "startDate": "2026-03",
+      "endDate": "2026-08",
+      "summary": "Instructors: Prof. Vinay Kulkarni, Prof. Mani Bhushan",
+      "highlights": [
+        "Coordinated operations and classes for 100 students as part of the Kotak Education Foundation initiative.",
+        "Organised 30 hours of classes while creating and scoring course assignments and maintaining attendance records."
+      ]
+    },
+    {
+      "organization": "Indian Institute of Technology Bombay",
+      "position": "Teaching Assistant — Introduction to Machine Learning (DS 303)",
+      "startDate": "2026-01",
+      "endDate": "2026-05",
+      "summary": "Instructor: Prof. Parthe Pandit",
+      "highlights": [
+        "Graded assignments and examinations, and provided academic support to students via targeted TA sessions."
+      ]
+    },
+    {
+      "organization": "Indian Institute of Technology Bombay",
+      "position": "Teaching Assistant — Programming for Data Science (DS 203)",
+      "startDate": "2025-08",
+      "endDate": "2025-12",
+      "summary": "Instructor: Prof. Vinay Kulkarni",
+      "highlights": [
+        "Assessed student performance, resolved queries, and provided actionable feedback during TA meetings."
+      ]
+    },
+    {
+      "organization": "Indian Institute of Technology Bombay",
+      "position": "Teaching Assistant — Applied Data Science and Machine Learning (ME 228)",
+      "startDate": "2025-01",
+      "endDate": "2025-05",
+      "summary": "Instructor: Prof. Alankar",
+      "highlights": [
+        "Designed tutorials covering time series data analysis, evaluated exams and projects, and clarified student queries."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming & Scripting",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python",
+        "C++",
+        "SQL",
+        "Bash",
+        "LaTeX",
+        "Perl",
+        "HTML/CSS/JavaScript"
+      ]
+    },
+    {
+      "name": "ML Tools & Libraries",
+      "level": "Advanced",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "PyTorch",
+        "Scikit-Learn",
+        "JAX",
+        "Hugging Face",
+        "Jupyter",
+        "Anaconda",
+        "Pandas",
+        "NumPy",
+        "SciPy",
+        "Matplotlib",
+        "Seaborn"
+      ]
+    },
+    {
+      "name": "Recommender Systems",
+      "level": "Advanced",
+      "icon": "fa-solid fa-diagram-project",
+      "keywords": [
+        "RecBole",
+        "Elliot",
+        "Cornac"
+      ]
+    },
+    {
+      "name": "HPC, Cloud & DevOps",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-server",
+      "keywords": [
+        "NVIDIA CUDA",
+        "Linux",
+        "SLURM",
+        "AWS SageMaker",
+        "AWS S3",
+        "DataBricks",
+        "Docker",
+        "Git",
+        "Weights & Biases (WANDB)",
+        "PowerBI"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Data Analysis and Visualisation with Power BI",
+      "date": "2024",
+      "issuer": "Microsoft (Coursera)",
+      "icon": "fa-solid fa-certificate"
+    },
+    {
+      "name": "Introduction to Big Data",
+      "date": "2021",
+      "issuer": "UC San Diego (Coursera)",
+      "icon": "fa-solid fa-certificate"
+    },
+    {
+      "name": "Introduction to Data Analytics for Business",
+      "date": "2020",
+      "issuer": "University of Colorado, Boulder (Coursera)",
+      "icon": "fa-solid fa-certificate"
+    },
+    {
+      "name": "Machine Learning with AI using Python",
+      "date": "2020",
+      "issuer": "Knowledge Solutions India",
+      "icon": "fa-solid fa-certificate"
+    },
+    {
+      "name": "Git Workshop",
+      "date": "2020",
+      "issuer": "IEEE Computer Society, RVCE Student Chapter",
+      "icon": "fa-solid fa-certificate"
+    }
+  ],
+  "awards": [
+    {
+      "title": "World Rank 13 — IMC Prosperity 3",
+      "date": "2025-02",
+      "awarder": "IMC Trading",
+      "summary": "Created quantitative trading models to capitalise on market trends."
+    },
+    {
+      "title": "Hands-on Workshop Instructor",
+      "date": "2025-03",
+      "awarder": "Koita Centre for Digital Health (KCDH), IIT Bombay",
+      "summary": "Served as an instructor for a two-day hands-on technical workshop."
+    },
+    {
+      "title": "International Win — Formula Hybrid",
+      "date": "2020",
+      "awarder": "Formula Hybrid Competition",
+      "summary": "Secured an international win as a member of Team Ashwa Racing."
     }
   ]
 }
