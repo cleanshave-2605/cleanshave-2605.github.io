@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - cleanshave-2605
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - cleanshave-2605/Machine-Learning-over-Encrypted-Data
+  - cleanshave-2605/GNR_638_Assignment_3
+  - cleanshave-2605/Stay_or_Stray_A_Dynamical_Systems_Viewpoint_of_Popularity_Bias
+  - cleanshave-2605/Emotional_Ananlysis_NLP
+  - MO-Sarvesh-INT5813/IPS_Mitigated_Recommender
+  - SahaAnirban007/GNR_Project_Final
+  - cankish/CS725_Infomax
