@@ -2,7 +2,7 @@
 layout: "page"
 title: "Inducing Robustness in 2D-DPO"
 description: "Improving preference optimisation robustness under noisy labels with Robust 2D-DPO."
-img: "assets/img/12.jpg"
+img: "assets/img/2ddpo.png"
 importance: 1
 category: "coursework"
 ---

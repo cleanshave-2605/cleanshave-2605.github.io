@@ -2,7 +2,7 @@
 layout: "page"
 title: "RLHF under User Heterogeneity"
 description: "Personalised preference models for reinforcement learning from human feedback."
-img: "assets/img/7.jpg"
+img: "assets/img/rlhf.jpeg"
 importance: 3
 category: "coursework"
 ---

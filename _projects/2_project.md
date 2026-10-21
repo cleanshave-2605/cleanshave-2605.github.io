@@ -2,7 +2,7 @@
 layout: "page"
 title: "Microchess Playing Agent"
 description: "A reinforcement learning Microchess agent with Negamax and Alpha-Beta pruning."
-img: "assets/img/3.jpg"
+img: "assets/img/chess.jpeg"
 importance: 2
 category: "coursework"
 ---
