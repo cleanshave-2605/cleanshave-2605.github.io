@@ -6,7 +6,7 @@ subtitle: M.S. by Research Scholar at <a href="https://www.minds.iitb.ac.in/">C-
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>I may not look like this anymore, unfortunately.</p>
