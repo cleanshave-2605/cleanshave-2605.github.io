@@ -135,15 +135,15 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Sarvesh Shashidhar
-blog_description: Research notes and thoughts on Machine Learning, Recommender Systems, and Optimization
-permalink: /blog/:year/:title/
-lsi: false
+# blog_name: Sarvesh Shashidhar
+# blog_description: Research notes and thoughts on Machine Learning, Recommender Systems, and Optimization
+# permalink: /blog/:year/:title/
+# lsi: false
 
 # ... (keep pagination and giscus as is) ...
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: # cleared default 'al-folio' shortname
+# disqus_shortname: # cleared default 'al-folio' shortname
 
 # Comment out default external sources so dummy posts don't populate your blog:
 # external_sources:
