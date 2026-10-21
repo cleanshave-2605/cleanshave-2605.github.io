@@ -27,7 +27,7 @@ latest_posts:
 
 I am an **M.S. by Research** scholar at the **Centre for Machine Intelligence and Data Science (C-MInDS)** at the **Indian Institute of Technology Bombay (IIT Bombay)**, advised by **Prof. Arpit Agarwal**. My primary research is on **Recommender Systems** and **Reinforcement Learning from Human Feedback (RLHF)**. Basically, I am a humble man trying to make AI and ML algorithms fair for all.
 
-For collaborations or to have a chat with me, send me an <a href=mailto:sarvesh260500@gmail.com>email<\a> or send me a message over LinkedIn. If I don't reply in a timely manner, please don't hold it against me.
+For collaborations or to have a chat with me, send me an <a href=mailto:sarvesh260500@gmail.com>email</a> or send me a message over LinkedIn. If I don't reply in a timely manner, please don't hold it against me.
 
 
 <!--lies at the intersection of , and **Direct Preference Optimization (DPO)**:
