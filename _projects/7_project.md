@@ -2,7 +2,7 @@
 layout: "page"
 title: "Emotion Classification for Hindi"
 description: "Deep learning and word embeddings for five-class emotion classification in Hindi."
-img: "assets/img/4.jpg"
+img: "assets/img/emotion.png"
 importance: 7
 category: "coursework"
 ---

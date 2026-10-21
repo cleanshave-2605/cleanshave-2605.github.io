@@ -2,7 +2,7 @@
 layout: "page"
 title: "Blackjack Bot"
 description: "Solving a Blackjack Markov Decision Process with Linear Programming and Howard’s Policy Iteration."
-img: "assets/img/1.jpg"
+img: "assets/img/blackjack.jpg"
 importance: 5
 category: "coursework"
 ---

@@ -2,7 +2,7 @@
 layout: "page"
 title: "Machine Learning over Encrypted Data"
 description: "Linear and logistic regression directly on homomorphically encrypted medical data."
-img: "assets/img/6.jpg"
+img: "assets/img/encryption.png"
 importance: 9
 category: "personal"
 ---

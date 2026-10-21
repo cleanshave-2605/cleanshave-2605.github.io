@@ -2,7 +2,7 @@
 layout: "page"
 title: "OCR-based MCQ Solver"
 description: "An eight-billion-parameter vision-language model for OCR and multiple-choice question answering."
-img:
+img: "assets/img/ocr.jpeg"
 importance: 6
 category: "coursework"
 ---

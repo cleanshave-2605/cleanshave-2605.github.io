@@ -2,7 +2,7 @@
 layout: "page"
 title: "Improved ResNet Implementation"
 description: "An iResNet-50 implementation addressing information flow and normalisation bottlenecks."
-img: "assets/img/9.jpg"
+img: "assets/img/resnet.jpeg"
 importance: 8
 category: "coursework"
 ---

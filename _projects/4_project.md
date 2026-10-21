@@ -2,7 +2,7 @@
 layout: "page"
 title: "Fine-tuning & Evaluating CNN Backbones"
 description: "Comparing CNN backbones for aerial image classification, few-shot learning, and noise robustness."
-img:
+img: "assets/img/cnn.jpeg"
 importance: 4
 category: "coursework"
 ---
