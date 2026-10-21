@@ -1,189 +1,244 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+  name: Sarvesh Shashidhar
+  label: M.S. by Research Scholar, C-MInDS, IIT Bombay
+  summary: Research in recommender systems, popularity bias, and reinforcement learning from human feedback.
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Indian Institute of Technology Bombay
+        area: Centre for Machine Intelligence and Data Science
+        studyType: M.S. by Research
+        date: "2027"
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+          - "CPI: 8.83; core credits: 40; total credits: 70."
+      - institution: RV College of Engineering, Visvesvaraya Technological University
+        area: Electronics & Communication Engineering
+        studyType: Graduation
+        date: "2021"
         highlights:
-          - Description 1.
-          - Description 2.
-
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+          - "CPI: 8.66."
+      - institution: Jain International Residential School, CBSE
+        studyType: Intermediate
+        date: "2017"
         highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+          - "Score: 93.00%."
+      - institution: Jain International Residential School, CBSE
+        studyType: Matriculation
+        date: "2015"
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "CPI: 10."
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Stay or Stray-A Dynamical Systems Viewpoint of Popularity Bias
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+          - Sarvesh Shashidhar
+          - Lankireddy Prabhat
+          - Arpit Agarwal
+          - D. Manjunath
+          - Karan Bhukar
+          - Tanmay Khandelwal
+        publisher: arXiv preprint arXiv:2608.10474
+        releaseDate: "2026"
+        summary: Sarvesh Shashidhar, Lankireddy Prabhat, Arpit Agarwal, D. Manjunath, Karan Bhukar, and Tanmay Khandelwal.
+      - title: Inducing Robustness in a 2 Dimensional Direct Preference Optimization Paradigm
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Sarvesh Shashidhar
+          - Ritik
+          - Nachiketa Patil
+          - Suraj Racha
+          - Ganesh Ramakrishnan
+        publisher: arXiv preprint arXiv:2505.01706
+        releaseDate: "2025"
+        summary: Sarvesh Shashidhar, Ritik, Nachiketa Patil, Suraj Racha, and Ganesh Ramakrishnan.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+    Research Experience:
+      - bullet: "**Modelling Popularity Bias in Recommender Systems — M.S.(R) Thesis** | Prof. Arpit Agarwal | February 2025–Present. In collaboration with the Amazon Music team; under review at AAAI 27 (arXiv:2608.10474)."
+      - bullet: Formulated a theoretical framework using differential equations to model popularity bias in recommender systems.
+      - bullet: Derived and proved concrete theorems using stochastic approximation to predict and quantify user drop-off.
+      - bullet: Designed a mitigation solution using equalized odds to prevent popularity bias without loss in system accuracy.
+      - bullet: Evaluated the framework using 410 million real-world interactions, validating the predictions and solution.
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    Experience:
+      - company: Motilal Oswal Financial Services Ltd.
+        position: AI Research Intern
+        start_date: "2026-05"
+        end_date: "2026-08"
+        summary: "May–August 2026. Technologies: AWS SageMaker, AWS S3, Databricks, NVIDIA CUDA."
+        highlights:
+          - Identified recommendation system biases causing 5% of 20,000 catalogue items to absorb 84.5% of interactions.
+          - Developed two IPS models to ensure fairness and integrated them using a 35% signal blend across 7,016 users.
+          - Achieved a 60% reduction in top 10% popularity concentration, effectively cutting the NDCG@6 cost by half.
+          - Developed a dynamic visualisation dashboard using HTML, CSS, and JavaScript to track model performance.
+      - company: athenahealth Technology Pvt. Ltd.
+        position: Associate Member of Technical Staff
+        start_date: "2021-07"
+        end_date: "2023-03"
+        summary: "July 2021–March 2023. Technologies: Perforce, JIRA, Bitbucket, Kanban workflow."
+        highlights:
+          - Engineered clean Perl rules code through regression testing, delivering reliable clinical releases for the Rules 1.0 engine.
+          - Coordinated cross-functional team updates by resolving JIRA requests and ensuring sprint timelines were followed.
+          - Maintained task work orders via internal Wiki pages, enabling strict compliance tracking for project leads.
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Inducing Robustness in 2D-DPO
+        start_date: "2025-03"
+        end_date: "2025-05"
+        summary: "Course project, CS 769 | Prof. Ganesh Ramakrishnan | March–May 2025."
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Diagnosed a lack of segment-level noise robustness in 2D-DPO, causing a win-rate drop from 43% to 37%.
+          - Formulated Robust 2D-DPO and trained a Pythia 6.9B model on 6,400 HelpSteer-2D prompts to test robustness.
+          - Increased win rate from 37% to 45% in the presence of noisy labels.
+          - Accelerated model training and inference by parallelising over four NVIDIA H100 GPUs.
+      - name: Microchess Playing Agent
+        start_date: "2025-11"
+        end_date: "2025-12"
+        summary: "Course project, CS 747 | Prof. Shivaram Kalyankrishnan | November–December 2025."
+        highlights:
+          - Devised a Microchess agent using reinforcement learning to compete against random and rational opponents.
+          - Engineered Negamax with Alpha-Beta pruning and Quiescence search to model gameplay.
+          - Achieved 94% and 84% win rates against random and rational opponents respectively across 100 games.
+      - name: RLHF under User Heterogeneity
+        start_date: "2025-02"
+        end_date: "2025-05"
+        summary: "Course project, CS6103 | Prof. Arpit Agarwal | February–May 2025."
+        highlights:
+          - Uncovered a flaw in standard RLHF due to the assumption of perfectly homogeneous preferences across all users.
+          - Engineered personalised preference models across 40 workers and two distinct clusters using vector embeddings.
+          - Achieved 53% and 52.7% win rates for the two user clusters, compared with a 52% baseline.
+      - name: Fine-tuning & Evaluating CNN Backbones
+        start_date: "2026-02"
+        end_date: "2026-03"
+        summary: "Course project, GNR638 | Prof. Biplab Bannerjee | February–March 2026."
+        highlights:
+          - Benchmarked three pre-trained CNN architectures on the Aerial Image Dataset (AID) with 30 classes.
+          - Executed five evaluation paradigms examining few-shot performance and noise robustness across three models.
+          - Observed 95% accuracy and a 24% relative drop due to noise for ConvNeXt-Tiny with 27.8 million parameters.
+      - name: Blackjack Bot
+        start_date: "2025-10"
+        end_date: "2025-11"
+        summary: "Course project, CS 747 | Prof. Shivaram Kalyankrishnan | October–November 2025."
+        highlights:
+          - Modelled a 26-card Blackjack variation as a Markov Decision Process with three specific actions.
+          - Implemented Linear Programming and Howard's Policy Iteration to solve linear constraints across scenarios.
+          - Evaluated optimal value functions against agent actions and passed 100% of defined test cases.
+      - name: OCR-based MCQ Solver
+        start_date: "2026-04"
+        end_date: "2026-05"
+        summary: "Course project, GNR638 | Prof. Biplab Bannerjee | April–May 2026."
+        highlights:
+          - Procured and scraped high-quality MCQ questions on deep learning to train an OCR solver.
+          - Trained a Qwen3-VL model with eight billion parameters to extract text using OCR and solve MCQ questions.
+          - Attained 90% accuracy using few-shot training on a predefined evaluation dataset.
+      - name: Emotion Classification for Hindi
+        start_date: "2024-10"
+        end_date: "2024-12"
+        summary: "Course project, CS 626 | Prof. Pushpak Bhattacharya | October–December 2024."
+        highlights:
+          - Classified 20,000 Hindi sentences into five distinct emotion classes using deep learning models.
+          - Verified 162 scenarios covering nine deep learning models, six dataset variations, and three word-embedding techniques.
+          - Attained 84.3% accuracy using TextBlob embeddings and mBERT with human-annotated labels.
+      - name: Improved ResNet Implementation
+        start_date: "2026-03"
+        end_date: "2026-04"
+        summary: "Course project, GNR638 | Prof. Biplab Bannerjee | March–April 2026."
+        highlights:
+          - Addressed information flow obstruction, lossy projection, and suboptimal normalisation in ResNet-50.
+          - Implemented iResNet-50 from scratch and trained it for 100 epochs to overcome ResNet-50 bottlenecks.
+          - Achieved 85.31% Top-1 accuracy using a 25.56 million parameter iResNet-50 on CIFAR-10 and CIFAR-100.
+      - name: Machine Learning over Encrypted Data
+        start_date: "2020"
+        end_date: "2021"
+        summary: Self project | 2020–2021.
+        highlights:
+          - Identified 250 million medical data breaches and the need for encryption when handling medical data.
+          - Developed a Python framework using Homomorphic Encryption to enable operations directly on encrypted data.
+          - Performed linear and logistic regression accurately on encrypted data without decryption.
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Positions of Responsibility:
+      - bullet: "**Department General Secretary, C-MInDS, IIT Bombay** | June 2025–April 2026."
+      - bullet: Organised the India AI Impact Summit 2026 pre-event and TechConnect 2025 to support industry collaborations.
+      - bullet: Created a comprehensive placement pitch deck and promoted student–industry interactions.
+      - bullet: Launched a student grievance redressal portal and helped modify course buckets in response to students' demands.
+      - bullet: Hosted annual orientation and convocation ceremonies for incoming and graduating students.
+      - bullet: "**Academic Council Coordinator, Post Graduate Academic Council, IIT Bombay** | January–June 2025."
+      - bullet: Moderated the Teachers for Tomorrow 2.0 panel, giving students insight into the journey of young professors.
+      - bullet: Assisted in organising pre-placement events and industry talks as part of the events vertical.
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Teaching Experience:
+      - bullet: "**Head Teaching Assistant, IITB-KEF AI-ML Course** | Prof. Vinay Kulkarni and Prof. Mani Bhushan | March–August 2026. Coordinated operations and classes for 100 students through the Kotak Education Foundation; organised 30 hours of classes, created and scored assignments, and maintained attendance records."
+      - bullet: "**Teaching Assistant, Introduction to Machine Learning (DS 303)** | Prof. Parthe Pandit | January–May 2026. Graded assignments and examinations and provided academic support through targeted TA sessions."
+      - bullet: "**Teaching Assistant, Programming for Data Science (DS 203)** | Prof. Vinay Kulkarni | August–December 2025. Assessed student performance, resolved queries, and provided actionable feedback during TA meetings."
+      - bullet: "**Teaching Assistant, Applied Data Science and Machine Learning (ME 228)** | Prof. Alankar | January–May 2025. Designed tutorials on time series data analysis, evaluated exams and projects, and clarified student queries."
+
+    Certificates:
+      - name: Data Analysis and Visualisation with Power BI
+        date: "2024"
+        issuer: Microsoft (Coursera)
+      - name: Introduction to Big Data
+        date: "2021"
+        issuer: UC San Diego (Coursera)
+      - name: Git Workshop
+        date: "2020"
+        issuer: IEEE Computer Society, RVCE Student Chapter
+      - name: Introduction to Data Analytics for Business
+        date: "2020"
+        issuer: University of Colorado, Boulder (Coursera)
+      - name: Machine Learning with AI using Python
+        date: "2020"
+        issuer: Knowledge Solutions India
+
+    Relevant Courses:
+      - bullet: Foundations of Machine Learning
+      - bullet: Theoretical Machine Learning
+      - bullet: Speech and Natural Language Processing and the Web
+      - bullet: Optimisation in Machine Learning
+      - bullet: Foundations of Intelligent and Learning Agents
+      - bullet: Algorithms and Complexity
+      - bullet: "Human-Centered AI: From Learning Models to Responsible Systems"
+      - bullet: Online Learning and Optimisation
+
+    Skills:
+      - name: Programming & Scripting Languages
+        keywords:
+          - Python
+          - C++
+          - SQL
+          - Bash
+          - LaTeX
+      - name: ML Tools & Libraries
+        keywords:
+          - PyTorch
+          - Scikit-Learn
+          - JAX
+          - HuggingFace
+          - Jupyter
+          - Anaconda
+          - Pandas
+          - NumPy
+          - SciPy
+          - Matplotlib
+          - Seaborn
+      - name: HPC & Server Operations
+        keywords:
+          - CUDA
+          - Linux
+          - SLURM
+          - AWS SageMaker
+      - name: Project Management
+        keywords:
+          - Git
+          - WANDB
+          - AWS S3
+          - Docker
+          - Excel
+          - Power BI
+      - name: Recommendation Systems Tools
+        keywords:
+          - RecBole
+          - Elliot
+          - Cornac
+
+    Extracurricular Activities:
+      - bullet: "Secured World Rank 13 in IMC Prosperity 3 by creating quantitative models to capitalise on market trends (February 2025)."
+      - bullet: "Participated as an instructor at the two-day Hands-on Workshop organised by KCDH, IIT Bombay (March 2025)."
+      - bullet: "Secured an international win at Formula Hybrid as part of Team Ashwa Racing (2020)."

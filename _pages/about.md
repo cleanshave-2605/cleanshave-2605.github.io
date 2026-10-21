@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>I may not look like this anymore, unfortunately.</p>
+    <p>Messy hair, messier life.</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,9 +25,9 @@ latest_posts:
   limit: 3
 ---
 
-I am an **M.S. by Research** scholar at the **Centre for Machine Intelligence and Data Science (C-MInDS)** at the **Indian Institute of Technology Bombay (IIT Bombay)**, advised by **Prof. Arpit Agarwal**. My primary research is on **Recommender Systems** and **Reinforcement Learning from Human Feedback (RLHF)**. Basically, I am a humble man trying to make AI and ML algorithms fair for all.
+I am an **M.S. by Research** scholar at the **Centre for Machine Intelligence and Data Science (C-MInDS)** at the **Indian Institute of Technology Bombay (IIT Bombay)**, advised by **Prof. Arpit Agarwal**. My primary research is on **Recommender Systems** and **Reinforcement Learning from Human Feedback (RLHF)**. Basically, I am a simple man, excited to make AI and ML algorithms fair for all.
 
-For collaborations or to have a chat with me, send me an <a href=mailto:sarvesh260500@gmail.com>email</a> or send me a message over LinkedIn. If I don't reply in a timely manner, please don't hold it against me.
+For collaborations or to have a chat with me, send me an <a href="mailto:sarvesh260500@gmail.com">email</a> or send me a message over <a href="https://www.linkedin.com/in/sarvesh-shashidhar/">LinkedIn</a>. If I don't reply in a timely manner, please don't hold it against me.
 
 
 <!--lies at the intersection of , and **Direct Preference Optimization (DPO)**:
